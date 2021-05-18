@@ -28,7 +28,7 @@ and
 
 Explanatory video of the approach:
 
-[![Watch the video](https://img.youtube.com/vi/07YQOlwIOMs/0.jpg)](https://www.youtube.com/watch?v=07YQOlwIOMs&t)
+[![Watch the video](https://img.youtube.com/vi/07YQOlwIOMs/0.jpg)](https://www.youtube.com/watch?v=07YQOlwIOMs)
 
 # Dependencies
 
