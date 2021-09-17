@@ -41,6 +41,8 @@ Explanatory video of the approach:
 After installing all of the required dependencies above you can download the pretrained weights from [here](https://drive.google.com/drive/folders/1IPrDpvFq9ODW7UtPAJR_T-gGzxDat_uu?usp=sharing).
 
 Unzip the archive and place *saved_models_gan* folder in the main *projectRegularization* directory.
+
+Please note that the polygonization step is not yet available!
  
 ## Evaluation
 Modify *variables.py* accordingly, then run the prediction issuing the command
