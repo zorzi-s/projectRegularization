@@ -2,7 +2,7 @@
 This repository contains the implementation for our publication "Machine-learned regularization and polygonization of building segmentation masks", ICPR 2021. 
 If you use this implementation please cite the following publication:
 
-~~~
+~~~bibtex
 @inproceedings{zorzi2021machine,
   title={Machine-learned regularization and polygonization of building segmentation masks},
   author={Zorzi, Stefano and Bittner, Ksenia and Fraundorfer, Friedrich},
@@ -13,7 +13,7 @@ If you use this implementation please cite the following publication:
 }
 ~~~
 and
-~~~
+~~~bibtex
 @inproceedings{zorzi2019regularization,
   title={Regularization of building boundaries in satellite images using adversarial and regularized losses},
   author={Zorzi, Stefano and Fraundorfer, Friedrich},
